@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shalu Pandey</h1>
 
 <h2 align="center">
-Web Developer • Data Engineer • Prompt Engineering Enthusiast
+Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 </h2>
 
 <div align="center">
@@ -12,14 +12,14 @@ Web Developer • Data Engineer • Prompt Engineering Enthusiast
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Student
-- 💻 Passionate Web Developer
-- 📊 Interested in Data Engineering & AI
-- 🤖 Prompt Engineering Enthusiast
-- 🌱 Currently learning DSA, Python, Machine Learning & Full Stack Development
-- 🔥 Building real-world projects and improving problem-solving skills
-- ☕ Turning coffee into code, one project at a time
-- ⚡ Goal: Become placement-ready and industry-ready through consistency and projects
+- 🎓 Computer Science Engineering Student at CMR Engineering College
+- 💻 Passionate Web Developer & Full Stack Enthusiast
+- 🤖 Exploring AI, Prompt Engineering & Machine Learning
+- 📊 Interested in Data Engineering, Analytics & Intelligent Systems
+- 🌱 Currently improving DSA, Development Skills & Real-World Project Building
+- 🏆 Smart India Hackathon Finalist & National-Level Hackathon Participant
+- ⚡ Strong believer in consistency, creativity, leadership & teamwork
+- ☕ Turning ideas into impactful tech solutions through code
 
 ## 🛠️ Tech Stack
 
@@ -31,16 +31,34 @@ Web Developer • Data Engineer • Prompt Engineering Enthusiast
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
 <img width="15" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+<img width="15" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
 <img width="15" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+<img width="15" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
 <img width="15" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
 <img width="15" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
 <img width="15" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
@@ -55,14 +73,39 @@ Web Developer • Data Engineer • Prompt Engineering Enthusiast
 ### 🚨 GeoDisasterAI
 Explainable Deep Ensemble Framework for Real-Time Urban & Rural Disaster Classification & Resilience
 
-### 🧠 Machine Learning & AI Projects
-Prediction systems, analytics, and intelligent applications using Python & ML
+### 🧠 AI-Based Civic Issue Reporting Platform
+Smart India Hackathon project focused on reporting and tracking civic issues using web technologies
+
+### 🌐 Waste Management System
+Web-based application for complaint registration and waste issue monitoring
+
+### 🏥 Hospital Management System
+Java-based console application implementing Object-Oriented Programming concepts
+
+### ⚡ Trash Based Electricity Project
+Hardware-based renewable energy model using waste utilization concepts
 
 ### 💻 DSA & Problem Solving
-Practicing LeetCode and Data Structures & Algorithms in C++
+Practicing LeetCode and strengthening problem-solving skills using C++ & Python
 
-### 🌐 Web Development Projects
-Responsive and interactive frontend projects using HTML, CSS, JavaScript & React
+## 🏆 Achievements
+
+- 🥈 Runner-Up at National Level Project Expo Vishesh 2025
+- 🚀 Smart India Hackathon Finalist (2024 & 2025)
+- 💡 Cleared Round-2 of NextGenHack National Level Hackathon
+- 🏅 Selected among Top 60 Teams in 24-Hour Hackathon VNRVJIET
+- 🎤 Event Coordinator for National-Level Hackathon at CMREC
+- 🏆 2nd Prize Winner at TECHZE EXPO 2K23
+
+## 📜 Certifications
+
+- Foundations of Cybersecurity – Coursera
+- AI Foundation & AI Advanced – Hexart
+- SQL using MySQL – Scaler
+- Python Data Analyst – Infosys Springboard
+- Microsoft Power BI – Udemy
+- Agentforce Specialist AI – Salesforce Trailhead
+- NPTEL Joy of Computing Using Python – IIT Madras (Elite + Silver)
 
 ## 🌐 Connect With Me
 
