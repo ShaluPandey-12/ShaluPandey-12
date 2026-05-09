@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shalu Pandey</h1>
 
 <h2 align="center">
-Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
-</h2>
+Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast</h2>
 
 <div align="center">
 
