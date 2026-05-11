@@ -3,6 +3,9 @@
 <h2 align="center">
 Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 </h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShaluPandey-12&style=flat-square&color=blue" />
+</div>
 
 <div align="center">
   <img height="220" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
@@ -18,12 +21,6 @@ Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 - 🌱 Currently improving DSA, System Design, and production-ready project building  
 - 🏆 Smart India Hackathon Finalist & multiple National Hackathon participant  
 - ⚡ Strong focus on consistency, execution, and impactful solutions
-
- ## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShaluPandey-12&show_icons=true&theme=radical" />
-
-<img src="https://komarev.com/ghpvc/?username=ShaluPandey-12&label=Profile%20views&color=0e75b6&style=flat" />
 
 
 ## 🧠 Interests
