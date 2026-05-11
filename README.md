@@ -17,7 +17,14 @@ Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 - 🌍 Love solving real-world problems using technology  
 - 🌱 Currently improving DSA, System Design, and production-ready project building  
 - 🏆 Smart India Hackathon Finalist & multiple National Hackathon participant  
-- ⚡ Strong focus on consistency, execution, and impactful solutions  
+- ⚡ Strong focus on consistency, execution, and impactful solutions
+
+ ## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShaluPandey-12&show_icons=true&theme=tokyonight" />
+
+<img src="https://komarev.com/ghpvc/?username=ShaluPandey-12&label=Profile%20views&color=0e75b6&style=flat" />
+
 
 ## 🧠 Interests
 
@@ -28,7 +35,6 @@ Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 - 🛰️ Geo-spatial intelligence and disaster prediction systems  
 - 🚀 Startup-style project building and rapid prototyping  
 - 🔐 Civic-tech and public service digital platforms
-- <img src="https://komarev.com/ghpvc/?username=ShaluPandey-12&label=Profile%20views&color=0e75b6&style=flat" />
 
 ## 🛠️ Tech Stack
 
