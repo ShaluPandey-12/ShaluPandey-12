@@ -1,110 +1,126 @@
 <h1 align="center">Hi 👋, I'm Shalu Pandey</h1>
 
 <h2 align="center">
-Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast</h2>
+Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
+</h2>
 
 <div align="center">
-
   <img height="220" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-
 </div>
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering Student at CMR Engineering College
-- 💻 Passionate Web Developer & Full Stack Enthusiast
-- 🤖 Exploring AI, Prompt Engineering & Machine Learning
-- 📊 Interested in Data Engineering, Analytics & Intelligent Systems
-- 🌱 Currently improving DSA, Development Skills & Real-World Project Building
-- 🏆 Smart India Hackathon Finalist & National-Level Hackathon Participant
-- ⚡ Strong believer in consistency, creativity, leadership & teamwork
-- ☕ Turning ideas into impactful tech solutions through code
+- 🎓 Computer Science Engineering Student at CMR Engineering College  
+- 💻 Full Stack Developer focused on building real-world, scalable applications  
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Prompt Engineering  
+- 📊 Interested in Data Engineering, Data Analytics & Intelligent Systems  
+- 🌍 Love solving real-world problems using technology  
+- 🌱 Currently improving DSA, System Design, and production-ready project building  
+- 🏆 Smart India Hackathon Finalist & multiple National Hackathon participant  
+- ⚡ Strong focus on consistency, execution, and impactful solutions  
+
+## 🧠 Interests
+
+- 🧩 Problem Solving & Data Structures (C++ / Python)  
+- 🤖 AI/ML applications for real-world systems  
+- 🌐 Full Stack Web Development (Frontend + Backend + Deployment)  
+- 📊 Data-driven systems and analytics dashboards  
+- 🛰️ Geo-spatial intelligence and disaster prediction systems  
+- 🚀 Startup-style project building and rapid prototyping  
+- 🔐 Civic-tech and public service digital platforms  
 
 ## 🛠️ Tech Stack
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 
 </div>
 
 ## 📌 Featured Projects
 
-### 🚨 GeoDisasterAI
-Explainable Deep Ensemble Framework for Real-Time Urban & Rural Disaster Classification & Resilience
+### 🚨 GeoDisasterAI_Net  
+AI-powered geospatial disaster intelligence system for real-time detection and classification of natural disasters using machine learning and environmental data analysis.  
+🌐 **Live Demo:** https://sherni12-geodisasterainet.hf.space/
 
-### 🧠 AI-Based Civic Issue Reporting Platform
-Smart India Hackathon project focused on reporting and tracking civic issues using web technologies
+### 🧠 AI-Based Civic Issue Reporting Platform  
+A Smart India Hackathon-inspired civic tech solution that allows citizens to report issues like potholes, garbage, and infrastructure problems.  
+🌐 **Live Demo:** https://civic-app-sigma.vercel.app/
 
-### 🌐 Waste Management System
-Web-based application for complaint registration and waste issue monitoring
+### 🌐 Waste Management System  
+A web-based civic management platform designed to streamline waste issue reporting and monitoring.  
+🌐 **Live Demo:** https://waste-management-platform-coral.vercel.app/
 
-### 🏥 Hospital Management System
-Java-based console application implementing Object-Oriented Programming concepts
+### 🛍️ Krrish Handicraft Store  
+A responsive frontend e-commerce-style website showcasing traditional Indian handicrafts with a clean UI.  
+🌐 **Live Demo:** https://shalupandey-12.github.io/Krrish-Handicraft-Store/
 
-### ⚡ Trash Based Electricity Project
-Hardware-based renewable energy model using waste utilization concepts
+### 🏥 Hospital Management System  
+A Java-based OOP system for managing hospital operations like patient records and appointments.
 
-### 💻 DSA & Problem Solving
-Practicing LeetCode and strengthening problem-solving skills using C++ & Python
+### ⚡ Trash-Based Electricity Project  
+Hardware innovation project focused on converting waste into usable energy.
+
+### 💻 DSA & Problem Solving  
+Regular practice of Data Structures & Algorithms using C++ and Python.
 
 ## 🏆 Achievements
 
-- 🥈 Runner-Up at National Level Project Expo Vishesh 2025
-- 🚀 Smart India Hackathon Finalist (2024 & 2025)
-- 💡 Cleared Round-2 of NextGenHack National Level Hackathon
-- 🏅 Selected among Top 60 Teams in 24-Hour Hackathon VNRVJIET
-- 🎤 Event Coordinator for National-Level Hackathon at CMREC
-- 🏆 2nd Prize Winner at TECHZE EXPO 2K23
+- 🥈 Runner-Up at National Level Project Expo Vishesh 2025  
+- 🚀 Smart India Hackathon Finalist (2024 & 2025)  
+- 💡 Top 60 Teams – 24-Hour Hackathon at VNRVJIET  
+- 🏅 Selected in NextGenHack National Hackathon (Round 2)  
+- 🎤 Event Coordinator – National-Level Hackathon at CMREC  
+- 🏆 2nd Prize – TECHZE EXPO 2K23  
 
 ## 📜 Certifications
 
-- Foundations of Cybersecurity – Coursera
-- AI Foundation & AI Advanced – Hexart
-- SQL using MySQL – Scaler
-- Python Data Analyst – Infosys Springboard
-- Microsoft Power BI – Udemy
-- Agentforce Specialist AI – Salesforce Trailhead
-- NPTEL Joy of Computing Using Python – IIT Madras (Elite + Silver)
+- Foundations of Cybersecurity – Coursera  
+- AI Foundation & Advanced AI – Hexart  
+- SQL using MySQL – Scaler  
+- Python Data Analyst – Infosys Springboard  
+- Microsoft Power BI – Udemy  
+- Salesforce Agentforce Specialist AI  
+- NPTEL Joy of Computing Using Python – IIT Madras (Elite + Silver)  
 
 ## 🌐 Connect With Me
 
@@ -126,6 +142,6 @@ Practicing LeetCode and strengthening problem-solving skills using C++ & Python
 
 <div align="center">
 
-## ✨ “Consistency beats intensity.” ✨
+## ✨ “Consistency + Execution = Success” ✨
 
 </div>
