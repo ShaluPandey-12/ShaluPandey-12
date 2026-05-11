@@ -27,7 +27,8 @@ Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 - 📊 Data-driven systems and analytics dashboards  
 - 🛰️ Geo-spatial intelligence and disaster prediction systems  
 - 🚀 Startup-style project building and rapid prototyping  
-- 🔐 Civic-tech and public service digital platforms  
+- 🔐 Civic-tech and public service digital platforms
+- <img src="https://komarev.com/ghpvc/?username=ShaluPandey-12&label=Profile%20views&color=0e75b6&style=flat" />
 
 ## 🛠️ Tech Stack
 
