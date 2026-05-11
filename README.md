@@ -21,7 +21,7 @@ Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 
  ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShaluPandey-12&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaluPandey-12&show_icons=true&theme=tokyonight" />
 
 <img src="https://komarev.com/ghpvc/?username=ShaluPandey-12&label=Profile%20views&color=0e75b6&style=flat" />
 
