@@ -3,6 +3,7 @@
 <h2 align="center">
 Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 </h2>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ShaluPandey-12&style=flat-square&color=blue" />
 </div>
@@ -13,25 +14,24 @@ Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering Student at CMR Engineering College  
-- 💻 Full Stack Developer focused on building real-world, scalable applications  
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Prompt Engineering  
-- 📊 Interested in Data Engineering, Data Analytics & Intelligent Systems  
-- 🌍 Love solving real-world problems using technology  
-- 🌱 Currently improving DSA, System Design, and production-ready project building  
-- 🏆 Smart India Hackathon Finalist & multiple National Hackathon participant  
-- ⚡ Strong focus on consistency, execution, and impactful solutions
-
+🎓 Computer Science Engineering Student at CMR Engineering College.  
+💻 Full Stack Developer focused on building real-world, scalable applications.  
+🤖 Passionate about Artificial Intelligence, Machine Learning & Prompt Engineering.  
+📊 Interested in Data Engineering, Data Analytics & Intelligent Systems.  
+🌍 Love solving real-world problems using technology.  
+🌱 Currently improving DSA, System Design, and production-ready project building.  
+🏆 Smart India Hackathon Finalist & multiple National Hackathon participant.  
+⚡ Strong focus on consistency, execution, and impactful solutions.
 
 ## 🧠 Interests
 
-- 🧩 Problem Solving & Data Structures (C++ / Python)  
-- 🤖 AI/ML applications for real-world systems  
-- 🌐 Full Stack Web Development (Frontend + Backend + Deployment)  
-- 📊 Data-driven systems and analytics dashboards  
-- 🛰️ Geo-spatial intelligence and disaster prediction systems  
-- 🚀 Startup-style project building and rapid prototyping  
-- 🔐 Civic-tech and public service digital platforms
+🧩 Problem Solving & Data Structures (C++ / Python).  
+🤖 AI/ML applications for real-world systems.  
+🌐 Full Stack Web Development (Frontend + Backend + Deployment).  
+📊 Data-driven systems and analytics dashboards.  
+🛰️ Geo-spatial intelligence and disaster prediction systems.  
+🚀 Startup-style project building and rapid prototyping.  
+🔐 Civic-tech and public service digital platforms.
 
 ## 🛠️ Tech Stack
 
@@ -84,19 +84,19 @@ Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 
 ### 🚨 GeoDisasterAI_Net  
 AI-powered geospatial disaster intelligence system for real-time detection and classification of natural disasters using machine learning and environmental data analysis.  
-🌐 **Live Demo:** https://sherni12-geodisasterainet.hf.space/
+Live Demo: https://sherni12-geodisasterainet.hf.space/
 
 ### 🧠 AI-Based Civic Issue Reporting Platform  
 A Smart India Hackathon-inspired civic tech solution that allows citizens to report issues like potholes, garbage, and infrastructure problems.  
-🌐 **Live Demo:** https://civic-app-sigma.vercel.app/
+Live Demo: https://civic-app-sigma.vercel.app/
 
 ### 🌐 Waste Management System  
 A web-based civic management platform designed to streamline waste issue reporting and monitoring.  
-🌐 **Live Demo:** https://waste-management-platform-coral.vercel.app/
+Live Demo: https://waste-management-platform-coral.vercel.app/
 
 ### 🛍️ Krrish Handicraft Store  
 A responsive frontend e-commerce-style website showcasing traditional Indian handicrafts with a clean UI.  
-🌐 **Live Demo:** https://shalupandey-12.github.io/Krrish-Handicraft-Store/
+Live Demo: https://shalupandey-12.github.io/Krrish-Handicraft-Store/
 
 ### 🏥 Hospital Management System  
 A Java-based OOP system for managing hospital operations like patient records and appointments.
@@ -109,12 +109,12 @@ Regular practice of Data Structures & Algorithms using C++ and Python.
 
 ## 🏆 Achievements
 
-- 🥈 Runner-Up at National Level Project Expo Vishesh 2025  
-- 🚀 Smart India Hackathon Finalist (2024 & 2025)  
-- 💡 Top 60 Teams – 24-Hour Hackathon at VNRVJIET  
-- 🏅 Selected in NextGenHack National Hackathon (Round 2)  
-- 🎤 Event Coordinator – National-Level Hackathon at CMREC  
-- 🏆 2nd Prize – TECHZE EXPO 2K23  
+🥈 Runner-Up at National Level Project Expo Vishesh 2025  
+🚀 Smart India Hackathon Finalist (2024 & 2025)  
+💡 Top 60 Teams – 24-Hour Hackathon at VNRVJIET  
+🏅 Selected in NextGenHack National Hackathon (Round 2)  
+🎤 Event Coordinator – National-Level Hackathon at CMREC  
+🏆 2nd Prize – TECHZE EXPO 2K23  
 
 ## 📜 Certifications
 
@@ -124,8 +124,8 @@ Regular practice of Data Structures & Algorithms using C++ and Python.
 - Python Data Analyst – Infosys Springboard  
 - Microsoft Power BI – Udemy  
 - Salesforce Agentforce Specialist AI  
-- NPTEL Joy of Computing Using Python – IIT Madras (Elite + Silver)  
-
+- NPTEL Joy of Computing Using Python – IIT Madras (Elite + Silver)
+  
 ## 🌐 Connect With Me
 
 <div align="left">
