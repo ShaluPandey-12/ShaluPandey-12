@@ -145,9 +145,12 @@ Regular practice of Data Structures & Algorithms using C++ and Python.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://shalupandey-12.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
 </div>
 
-<div align="center">
 
 ## ✨ “Consistency + Execution = Success” ✨
 
