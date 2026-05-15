@@ -21,7 +21,10 @@ Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 🌍 Love solving real-world problems using technology.  
 🌱 Currently improving DSA, System Design, and production-ready project building.  
 🏆 Smart India Hackathon Finalist & multiple National Hackathon participant.  
-⚡ Strong focus on consistency, execution, and impactful solutions.
+⚡ Strong focus on consistency, execution, and impactful solutions.  
+🌐 Portfolio Website: [shalupandey-12.github.io](https://shalupandey-12.github.io/)
+    
+
 
 ## 🧠 Interests
 
