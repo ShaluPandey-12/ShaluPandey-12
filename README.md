@@ -82,8 +82,11 @@ Web Developer • Data Engineer • AI & Prompt Engineering Enthusiast
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 
 </div>
-
 ## 📌 Featured Projects
+
+### 🪔 Antima — The Last Journey Platform  
+A compassionate AI-powered SaaS platform designed to support families during end-of-life situations with ritual guidance, grief counseling, hospital coordination, and emotional support. Built with React.js, TypeScript, Firebase, and Google Gemini AI.  
+Live Demo: https://antima-summer-saa-2h08i3eiw-shalupandey-12s-projects.vercel.app/
 
 ### 🚨 GeoDisasterAI_Net  
 AI-powered geospatial disaster intelligence system for real-time detection and classification of natural disasters using machine learning and environmental data analysis.  
